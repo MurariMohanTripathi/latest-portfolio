@@ -94,43 +94,43 @@ export const myProjects = [
       // },
     ],
   },
-  // {
-  //   title: 'LiveDoc - Real-Time Google Docs Clone',
-  //   desc: 'LiveDoc is a powerful collaborative app that elevates the capabilities of real-time document editing. As an enhanced version of Google Docs, It supports millions of collaborators simultaneously, ensuring that every change is captured instantly and accurately.',
-  //   subdesc:
-  //     'With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.',
-  //   href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
-  //   texture: '/textures/project/project2.mp4',
-  //   logo: '/assets/project-logo2.png',
-  //   logoStyle: {
-  //     backgroundColor: '#13202F',
-  //     border: '0.2px solid #17293E',
-  //     boxShadow: '0px 0px 60px 0px #2F6DB54D',
-  //   },
-  //   spotlight: '/assets/spotlight2.png',
-  //   tags: [
-  //     {
-  //       id: 1,
-  //       name: 'React.js',
-  //       path: '/assets/react.svg',
-  //     },
-  //     {
-  //       id: 2,
-  //       name: 'TailwindCSS',
-  //       path: 'assets/tailwindcss.png',
-  //     },
-  //     {
-  //       id: 3,
-  //       name: 'TypeScript',
-  //       path: '/assets/typescript.png',
-  //     },
-  //     {
-  //       id: 4,
-  //       name: 'Framer Motion',
-  //       path: '/assets/framer.png',
-  //     },
-  //   ],
-  // },
+  {
+    title: 'Blogify - a blog reading and posting platform',
+    desc: 'Blogify is a full-stack blogging platform where users can create, read blog posts. The project is built with Node.js, Express, MongoDB, and deployed on AWS Elastic Beanstalk',
+    subdesc:
+      'Blogify features secure user authentication, responsive design, and complete CRUD functionality for blogs. This project strengthened my skills in backend development, database management, and cloud deployment, while also giving me hands-on experience with building a real-world web application from scratch.',
+    href: 'http://blogify-env.eba-5wpg9p66.ap-south-1.elasticbeanstalk.com/',
+    texture: '/textures/project/Blogify.mp4',
+    logo: '/assets/project-logo2.png',
+    logoStyle: {
+      backgroundColor: '#13202F',
+      border: '0.2px solid #17293E',
+      boxShadow: '0px 0px 60px 0px #2F6DB54D',
+    },
+    spotlight: '/assets/spotlight2.png',
+    tags: [
+      {
+        id: 1,
+        name: 'Node.js',
+        path: '/assets/node-js.png',
+      },
+      {
+        id: 2,
+        name: 'AWS',
+        path: 'assets/aws.jpg',
+      },
+      {
+        id: 3,
+        name: 'Bootstrap',
+        path: '/assets/bootstrap.png',
+      },
+      {
+        id: 4,
+        name: 'MongoDB',
+        path: '/assets/MongoDB_ForestGreen.png',
+      },
+    ],
+  },
   // {
   //   title: 'CarePulse - Health Management System',
   //   desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
